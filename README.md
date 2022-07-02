@@ -1,9 +1,9 @@
 # Sobre mim
 - 👋 Olá, meu nome é @MatheusFasien1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 Estou interessado em programação
+- 🌱 estou aprendendo no momento programação em Java e Scratch e construção de sites
+- ✉ Meu e-mail de contato é: crvlhmath1@gmail.com 
+
 
 <!---
 MatheusFasien1/MatheusFasien1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
